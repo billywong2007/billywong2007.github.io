@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>未分類 &#8211; Billy Wong</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Billy&#039;s Profile</description>
+	<lastBuildDate>Fri, 12 Feb 2016 08:27:17 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Markup: Text Alignment</title>
+		<link>/2016/02/12/markup-text-alignment/</link>
+					<comments>/2016/02/12/markup-text-alignment/#respond</comments>
+		
+		<dc:creator><![CDATA[FameThemes]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2016 08:27:17 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Markup]]></category>
+		<category><![CDATA[One Page]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[未分類]]></category>
+		<category><![CDATA[10]]></category>
+		<category><![CDATA[11]]></category>
+		<category><![CDATA[13]]></category>
+		<category><![CDATA[7]]></category>
+		<category><![CDATA[9]]></category>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?p=33</guid>
+
+					<description><![CDATA[Let them speak like you words. Let them do their j...]]></description>
+										<content:encoded><![CDATA[<p>Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we’ll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it’s thang. Mission accomplished!</p>
+<h3>Default</h3>
+<p>This is a paragraph. It should not have any alignment of any kind. It should just flow like you would normally expect. Nothing fancy. Just straight up text, free flowing, with love. Completely neutral and not picking a side or sitting on the fence. It just is. It just freaking is. It likes where it is. It does not feel compelled to pick a side. Leave him be. It will just be better that way. Trust me.</p>
+<h3>Left Align</h3>
+<p style="text-align: left;">This is a paragraph. It is left aligned. Because of this, it is a bit more liberal in it&#8217;s views. It&#8217;s favorite color is green. Left align tends to be more eco-friendly, but it provides no concrete evidence that it really is. Even though it likes share the wealth evenly, it leaves the equal distribution up to justified alignment.</p>
+<h3>Center Align</h3>
+<p style="text-align: center;">This is a paragraph. It is center aligned. Center is, but nature, a fence sitter. A flip flopper. It has a difficult time making up its mind. It wants to pick a side. Really, it does. It has the best intentions, but it tends to complicate matters more than help. The best you can do is try to win it over and hope for the best. I hear center align does take bribes.</p>
+<h3>Right Align</h3>
+<p style="text-align: right;">This is a paragraph. It is right aligned. It is a bit more conservative in it&#8217;s views. It&#8217;s prefers to not be told what to do or how to do it. Right align totally owns a slew of guns and loves to head to the range for some practice. Which is cool and all. I mean, it&#8217;s a pretty good shot from at least four or five football fields away. Dead on. So boss.</p>
+<h3>Justify Align</h3>
+<p style="text-align: justify;">This is a paragraph. It is justify aligned. It gets really mad when people associate it with Justin Timberlake. Typically, justified is pretty straight laced. It likes everything to be in it&#8217;s place and not all cattywampus like the rest of the aligns. I am not saying that makes it better than the rest of the aligns, but it does tend to put off more of an elitist attitude.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/02/12/markup-text-alignment/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

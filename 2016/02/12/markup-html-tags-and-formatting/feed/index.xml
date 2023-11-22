@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	〈HTML Tags and Formatting〉的留言	</title>
+	<atom:link href="/2016/02/12/markup-html-tags-and-formatting/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/02/12/markup-html-tags-and-formatting/</link>
+	<description>Billy&#039;s Profile</description>
+	<lastBuildDate>Sun, 27 Mar 2016 18:13:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>
+		留言者: ale ale		</title>
+		<link>/2016/02/12/markup-html-tags-and-formatting/#comment-3</link>
+
+		<dc:creator><![CDATA[ale ale]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2016 18:13:35 +0000</pubDate>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?p=37#comment-3</guid>
+
+					<description><![CDATA[great stuff #test]]></description>
+			<content:encoded><![CDATA[<p>great stuff #test</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		留言者: Bejo		</title>
+		<link>/2016/02/12/markup-html-tags-and-formatting/#comment-2</link>
+
+		<dc:creator><![CDATA[Bejo]]></dc:creator>
+		<pubDate>Thu, 25 Feb 2016 10:33:22 +0000</pubDate>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?p=37#comment-2</guid>
+
+					<description><![CDATA[Wow.... Beautiful themes]]></description>
+			<content:encoded><![CDATA[<p>Wow&#8230;. Beautiful themes</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
