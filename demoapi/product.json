@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "Beef Stroganoff",
+    "price": "500",
+    "image": "beefStroganoff_1.jpg",
+    "description": "Tender beef strips cooked in a creamy mushroom sauce, served over noodles or rice.",
+    "category": "meat",
+    "stocked": true
+  },
+  {
+    "id": 2,
+    "name": "Burger Salad",
+    "price": "50",
+    "image": "burgerSalad_1.jpg",
+    "description": "A hearty salad featuring all the classic burger toppings like lettuce, tomato, cheese, and pickles, topped with a grilled burger patty.",
+    "category": "salad",
+    "stocked": true
+  },
+  {
+    "id": 3,
+    "name": "Cannelloni with Shrimp and Lentils",
+    "price": "500",
+    "image": "cannelloniWithShrimpAndLentils_1.jpg",
+    "description": "Cannelloni pasta filled with a rich blend of shrimp and lentils, complemented by a savory sauce.",
+    "category": "pasta",
+    "stocked": true
+  },
+  {
+    "id": 4,
+    "name": "Chicken Soup",
+    "price": "50",
+    "image": "chickenSoup_1.jpeg",
+    "description": "Comforting soup made with tender chicken, vegetables, and broth, perfect for a light meal.",
+    "category": "soup",
+    "stocked": true
+  },
+  {
+    "id": 5,
+    "name": "Cornish Gypsy Eggs",
+    "price": "500",
+    "image": "cornishGypsyEggs_1.jpg",
+    "description": "Baked eggs with a savory mix of tomatoes, peppers, and spices, originating from Cornwall.",
+    "category": "meat",
+    "stocked": true
+  },
+  {
+    "id": 6,
+    "name": "Creamy Chicken Pesto Pasta",
+    "price": "500",
+    "image": "creamyChickenPestoPasta_1.jpg",
+    "description": "Pasta tossed in a creamy sauce flavored with basil pesto and tender pieces of chicken.",
+    "category": "pasta",
+    "stocked": true
+  },
+  {
+    "id": 7,
+    "name": "Creamy Fettuccine Carbonara",
+    "price": "500",
+    "image": "creamyFettuccineCarbonara_1.jpeg",
+    "description": "Fettuccine pasta coated in a creamy sauce with pancetta or bacon, Parmesan cheese, and black pepper.",
+    "category": "pasta",
+    "stocked": true
+  },
+  {
+    "id": 8,
+    "name": "Creamy Garlic Prawns",
+    "price": "500",
+    "image": "creamyGarlicPrawns_1.jpeg",
+    "description": "Juicy prawns cooked in a creamy garlic sauce, served with rice or crusty bread.",
+    "category": "seafood",
+    "stocked": true
+  },
+  {
+    "id": 9,
+    "name": "Crispy Skinned Salmon",
+    "price": "500",
+    "image": "crispySkinnedSalmon_1.jpeg",
+    "description": "Salmon fillet cooked with crispy skin intact, served with seasonal vegetables or salad.",
+    "category": "seafood",
+    "stocked": true
+  },
+  {
+    "id": 10,
+    "name": "Eton Mess",
+    "price": "50",
+    "image": "etonMess_1.jpg",
+    "description": "A traditional British dessert consisting of layers of crushed meringue, whipped cream, and fresh strawberries.",
+    "category": "dessert",
+    "stocked": true
+  },
+  {
+    "id": 11,
+    "name": "Firecracker Prawns",
+    "price": "500",
+    "image": "firecrackerPrawns_1.jpg",
+    "description": "Prawns cooked in a spicy, tangy sauce, often served as an appetizer or main dish.",
+    "category": "seafood",
+    "stocked": true
+  },
+  {
+    "id": 12,
+    "name": "Pea Ham Soup",
+    "price": "50",
+    "image": "peaHamSoup_1.jpeg",
+    "description": "A hearty soup made with split peas, ham, and vegetables, often served with crusty bread.",
+    "category": "soup",
+    "stocked": true
+  },
+  {
+    "id": 13,
+    "name": "Pumpkin Soup",
+    "price": "50",
+    "image": "pumpkinSoup_2.jpg",
+    "description": "Smooth and creamy soup made from roasted pumpkin, perfect for cooler weather.",
+    "category": "soup",
+    "stocked": true
+  },
+  {
+    "id": 14,
+    "name": "Slow Cooker Massaman Beef Curry",
+    "price": "500",
+    "image": "slowCookerMassamanBeefCurry_1.jpeg",
+    "description": "A rich and fragrant Thai curry with tender beef, potatoes, and peanuts, cooked slowly to develop deep flavors.",
+    "category": "curry",
+    "stocked": true
+  },
+  {
+    "id": 15,
+    "name": "Spinach And Ricotta Cannelloni",
+    "price": "500",
+    "image": "spinachAndRicottaCannelloni_1.jpeg",
+    "description": "Pasta tubes filled with a delicious mixture of spinach and ricotta cheese, baked in a tomato or creamy sauce.",
+    "category": "pasta",
+    "stocked": true
+  },
+  {
+    "id": 16,
+    "name": "Strawberry Cheese Cake",
+    "price": "50",
+    "image": "strawberryCheeseCake_1.jpg",
+    "description": "Creamy cheesecake topped with fresh strawberries, a classic dessert favorite.",
+    "category": "dessert",
+    "stocked": true
+  },
+  {
+    "id": 17,
+    "name": "Thai Beef Salad",
+    "price": "50",
+    "image": "thaiBeefSalad_1.jpg",
+    "description": "Refreshing salad with slices of marinated beef, fresh vegetables, herbs, and a zesty Thai dressing.",
+    "category": "salad",
+    "stocked": true
+  },
+  {
+    "id": 18,
+    "name": "Tuna Pasta",
+    "price": "500",
+    "image": "tunaPasta_1.jpg",
+    "description": "Pasta dish with tuna, often mixed with tomatoes, olives, and herbs, served hot or cold.",
+    "category": "pasta",
+    "stocked": true
+  },
+  {
+    "id": 19,
+    "name": "Eggplant and Ricotta Cannelloni",
+    "price": "500",
+    "image": "eggplantAndRicottaCannelloni_1.png",
+    "description": "Cannelloni pasta tubes filled with a savory mixture of eggplant and creamy ricotta cheese, baked in a flavorful tomato sauce.",
+    "category": "pasta",
+    "stocked": true
+  },
+  {
+    "id": 20,
+    "name": "Mini Apple Cakes",
+    "price": "50",
+    "image": "miniAppleCakes_1.jpg",
+    "description": "Individual-sized cakes made with fresh apples, perfect for a sweet treat or dessert.",
+    "category": "dessert",
+    "stocked": true
+  },
+  {
+    "id": 21,
+    "name": "Reinette Apple Cinnamon Crumble",
+    "price": "50",
+    "image": "reinetteAppleCinnamonCrumble_1.jpg",
+    "description": "A delightful dessert featuring reinette apples baked with cinnamon and topped with a crispy crumble crust.",
+    "category": "dessert",
+    "stocked": true
+  }
+]
